@@ -31,8 +31,6 @@
 ### Artificial Neural Network: 
 ##### Artificial neural networks (ANNs),also called as neural networks (NNs), are computing systems inspired by the the neural Networks in our brain. An ANN is a collection of connected units or nodes also called neurons, which loosely model the neurons in a biological brain. Deep learning uses artificial neural networks that behaves similarly to the neural networks in our brain. A neural network works when some input data is fed to it and this data is processed via layers of perceptron to produce a output.
 
-![Capture.PNG](attachment:Capture.PNG)
-
 ##### Keras: Keras is a powerful and easy-to-use Python library for developing and evaluating deep learning models. It wraps the efficient numerical computation libraries such as TensorFlow and allows to define and train neural network models.
 #####  https://keras.io/guides/sequential_model/
 ##### Step:
